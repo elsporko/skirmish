@@ -12,4 +12,5 @@ The application is similar to the game 'Battleship' where each player has a grid
 Skirmish adds a little bit to the basic game in that it can be played by more than two players at once with the added twist that on their turn players can either volley a shot at an opponent OR request intelligence from other players about another. Players can make 1 attack move or 2 intelligence moves. For example if A, B, C and D are playing the game and it is A's turn then A can either attack any player or ask C and/or D what they know about hit/miss activities on B's grid for specific locations.
 
 ## Architecture ##
+Before going too deep into the technical details please note that the architecture decisions are not made on the most efficient way of going about solving problems but rather based on the statement "I wonder if this will work". Efficiency may come in later versions but it all depends on what kinds of challenges I feel like taking on.
 
